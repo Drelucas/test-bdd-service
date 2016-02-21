@@ -1,0 +1,8 @@
+test: &default
+  url: http://jsonplaceholder.typicode.com
+
+development:
+  <<: *default
+
+production:
+  <<: *default
