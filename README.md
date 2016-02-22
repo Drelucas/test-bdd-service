@@ -1,4 +1,4 @@
-Install 
+Install
 -------------------
 
 Ruby 2.2.2
@@ -10,3 +10,8 @@ Sample run
 
   # running
   bundle exec cucumber features/test/jsonplaceholder.feature
+
+License
+-------
+
+[MIT License](LICENSE)
